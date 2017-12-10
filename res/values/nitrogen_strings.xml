@@ -227,6 +227,10 @@
     <string name="force_ambient_for_media_on_forced_clean">Enabled and forced minimal</string>
     <string name="ambient_ticker_footer">Ambient Music Ticker allows for the ability to show the current music track info on the lockscreen with or without Ambient display enabled.\nYou can select from two layouts, normal and minimal. While this feature takes advantage of ambient display, it does not depend on it.</string>
 
+    <!-- Ambient Display Brightness -->
+    <string name="ambient_doze_auto_brightness_title">Ambient and LiftToWake auto brightness</string>
+    <string name="ambient_doze_auto_brightness_summary">Use last screen-on adaptive brightness value for Ambient Display or Lift to Wake screen</string>
+
     <!-- Format string for fingerprint location message -->
     <string name="security_settings_fingerprint_enroll_find_sensor_message_cm">Locate the fingerprint sensor on the <xliff:g id="sensor_location">%1$s</xliff:g> of your phone.</string>
 

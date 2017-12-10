@@ -52,6 +52,11 @@
             android:entries="@array/force_ambient_for_media_entries"
             android:entryValues="@array/force_ambient_for_media_values"
             android:persistent="false" />
-
+,
     </PreferenceCategory>
+
+    <SwitchPreference
+        android:key="ambient_doze_auto_brightness"
+        android:title="@string/ambient_doze_auto_brightness_title"
+        android:summary="@string/ambient_doze_auto_brightness_summary" />
 </PreferenceScreen>
